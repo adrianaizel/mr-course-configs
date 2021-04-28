@@ -1,5 +1,0 @@
-oauth.client.name=myappname123
-oauth.client.secret=myappsecret123
-jwt.secret=MY-JWT-SECRET
-test.jwt.secret=MY-JWT-SECRET
-test1.config=My config value test profile update
